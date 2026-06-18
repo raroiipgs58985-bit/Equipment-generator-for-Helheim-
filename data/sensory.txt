@@ -1,0 +1,50 @@
+{
+  "description": "Сенсоры являются глазами и ушами техники, позволяя обнаруживать цели, ориентироваться в пространстве и эффективно применять вооружение.",
+  "levels": [
+    {
+      "ok": 1,
+      "bsBonus": 5,
+      "atmosphereRange": {
+        "opticsKm": 5,
+        "sensorKm": 10
+      },
+      "spaceRange": 10
+    },
+    {
+      "ok": 2,
+      "bsBonus": 10,
+      "atmosphereRange": {
+        "opticsKm": 5,
+        "sensorKm": 20
+      },
+      "spaceRange": 15
+    },
+    {
+      "ok": 3,
+      "bsBonus": 15,
+      "atmosphereRange": {
+        "opticsKm": 10,
+        "sensorKm": 50
+      },
+      "spaceRange": 20
+    },
+    {
+      "ok": 5,
+      "bsBonus": 20,
+      "atmosphereRange": {
+        "opticsKm": 20,
+        "sensorKm": 75
+      },
+      "spaceRange": 30
+    },
+    {
+      "ok": 10,
+      "bsBonus": 30,
+      "atmosphereRange": {
+        "opticsKm": 30,
+        "sensorKm": 100
+      },
+      "spaceRange": 100
+    }
+  ]
+}
