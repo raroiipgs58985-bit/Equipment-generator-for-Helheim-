@@ -1,0 +1,125 @@
+{
+  "description": "Масса дополнительного бронирования обычно составляет до 10% массы для аэрокосмической и воздушной техники, до 20% для морских судов и до 5% для наземной техники. Броня в пределах лимита не накладывает штрафов. Превышение лимита снижает скорость на 5 и маневренность согласно модулю брони.",
+  "armorTypes": [
+    {
+      "type": "Простая гомогенная",
+      "class": "Лёгкий",
+      "armor": 5,
+      "mass": 3,
+      "maneuverModifier": -5,
+      "cost": 5000
+    },
+    {
+      "type": "Комбинированная",
+      "class": "Лёгкий",
+      "armor": 5,
+      "mass": 2,
+      "maneuverModifier": -5,
+      "cost": 10000
+    },
+    {
+      "type": "Нано-композитная",
+      "class": "Лёгкий",
+      "armor": 7,
+      "mass": 1,
+      "maneuverModifier": 0,
+      "cost": 15000
+    },
+    {
+      "type": "Простая гомогенная",
+      "class": "Лёгкий",
+      "armor": 10,
+      "mass": 5,
+      "maneuverModifier": -10,
+      "cost": 25000
+    },
+    {
+      "type": "Комбинированная",
+      "class": "Лёгкий",
+      "armor": 10,
+      "mass": 3,
+      "maneuverModifier": -5,
+      "cost": 50000
+    },
+    {
+      "type": "Нано-композитная",
+      "class": "Лёгкий",
+      "armor": 15,
+      "mass": 2,
+      "maneuverModifier": -5,
+      "cost": 100000
+    },
+    {
+      "type": "Простая гомогенная",
+      "class": "Средний",
+      "armor": 15,
+      "mass": 15,
+      "maneuverModifier": -10,
+      "cost": 200000
+    },
+    {
+      "type": "Комбинированная",
+      "class": "Средний",
+      "armor": 15,
+      "mass": 10,
+      "maneuverModifier": -5,
+      "cost": 400000
+    },
+    {
+      "type": "Нано-композитная",
+      "class": "Средний",
+      "armor": 20,
+      "mass": 8,
+      "maneuverModifier": -5,
+      "cost": 600000
+    },
+    {
+      "type": "Простая гомогенная",
+      "class": "Тяжёлый",
+      "armor": 30,
+      "mass": 120,
+      "maneuverModifier": -10,
+      "cost": 350000
+    },
+    {
+      "type": "Комбинированная",
+      "class": "Тяжёлый",
+      "armor": 30,
+      "mass": 80,
+      "maneuverModifier": -5,
+      "cost": 500000
+    },
+    {
+      "type": "Нано-композитная",
+      "class": "Тяжёлый",
+      "armor": 35,
+      "mass": 60,
+      "maneuverModifier": -5,
+      "cost": 800000
+    },
+    {
+      "type": "Простая гомогенная",
+      "class": "Сверхтяжёлый",
+      "armor": 40,
+      "mass": 1500,
+      "maneuverModifier": -10,
+      "cost": 500000
+    },
+    {
+      "type": "Комбинированная",
+      "class": "Сверхтяжёлый",
+      "armor": 40,
+      "mass": 1000,
+      "maneuverModifier": -5,
+      "cost": 1000000
+    },
+    {
+      "type": "Нано-композитная",
+      "class": "Сверхтяжёлый",
+      "armor": 45,
+      "mass": 750,
+      "maneuverModifier": -5,
+      "cost": 2000000
+    }
+  ]
+}
