@@ -1,0 +1,101 @@
+[
+  {
+    "id": "size_2_light",
+    "ok": 1,
+    "gameSize": "2",
+    "class": "Легкий",
+    "baseArmor": 15,
+    "length": "3-5",
+    "frameMass": "2-4"
+  },
+  {
+    "id": "size_3_4_light",
+    "ok": 1,
+    "gameSize": "3-4",
+    "class": "Легкий",
+    "baseArmor": 15,
+    "length": "6-10",
+    "frameMass": "5-19"
+  },
+  {
+    "id": "size_5_minus_3_medium",
+    "ok": 1,
+    "gameSize": "5/-3",
+    "class": "Средний",
+    "baseArmor": 15,
+    "length": "11-25",
+    "frameMass": "20-49"
+  },
+  {
+    "id": "size_6_minus_2_medium",
+    "ok": 3,
+    "gameSize": "6/-2",
+    "class": "Средний",
+    "baseArmor": 20,
+    "length": "26-50",
+    "frameMass": "50-199"
+  },
+  {
+    "id": "size_minus_1_heavy",
+    "ok": 12,
+    "gameSize": "-1",
+    "class": "Тяжелый",
+    "baseArmor": 25,
+    "length": "51-100",
+    "frameMass": "200-499"
+  },
+  {
+    "id": "size_0_heavy",
+    "ok": 24,
+    "gameSize": "0",
+    "class": "Тяжелый",
+    "baseArmor": 30,
+    "length": "101-250",
+    "frameMass": "500-1999"
+  },
+  {
+    "id": "size_1_superheavy",
+    "ok": 48,
+    "gameSize": "1",
+    "class": "Сверхтяжелый",
+    "baseArmor": 30,
+    "length": "251-500",
+    "frameMass": "2000-3499"
+  },
+  {
+    "id": "size_2_superheavy",
+    "ok": 100,
+    "gameSize": "2",
+    "class": "Сверхтяжелый",
+    "baseArmor": 35,
+    "length": "501-1000",
+    "frameMass": "3500-4999"
+  },
+  {
+    "id": "size_3_superheavy",
+    "ok": 150,
+    "gameSize": "3",
+    "class": "Сверхтяжелый",
+    "baseArmor": 40,
+    "length": "1001-2500",
+    "frameMass": "5000-7000"
+  },
+  {
+    "id": "size_4_superheavy",
+    "ok": 200,
+    "gameSize": "4",
+    "class": "Сверхтяжелый",
+    "baseArmor": 60,
+    "length": "2550-5000",
+    "frameMass": "7050-10000"
+  },
+  {
+    "id": "size_5_superheavy",
+    "ok": 300,
+    "gameSize": "5",
+    "class": "Сверхтяжелый",
+    "baseArmor": 80,
+    "length": "5050-8000",
+    "frameMass": "10100+"
+  }
+]
