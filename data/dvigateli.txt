@@ -1,0 +1,54 @@
+{
+  "description": "Силовая установка и двигатели обеспечивают передвижение техники в пространстве, её маневренность и питание бортовых систем.",
+  "levels": [
+    {
+      "ok": 1,
+      "groundSpeed": 5,
+      "aeroSpeed": "50/25",
+      "accelerationG": "0.3-1",
+      "maneuverability": -10
+    },
+    {
+      "ok": 2,
+      "groundSpeed": 10,
+      "aeroSpeed": "75/35",
+      "accelerationG": "0.3-1",
+      "maneuverability": -5
+    },
+    {
+      "ok": 4,
+      "groundSpeed": 15,
+      "aeroSpeed": "100/50",
+      "accelerationG": "0.3-7",
+      "maneuverability": 0
+    },
+    {
+      "ok": 8,
+      "groundSpeed": 20,
+      "aeroSpeed": "150/75",
+      "accelerationG": "0.3-12",
+      "maneuverability": 5
+    },
+    {
+      "ok": 10,
+      "groundSpeed": 25,
+      "aeroSpeed": "200/100",
+      "accelerationG": "0.3-12",
+      "maneuverability": 10
+    },
+    {
+      "ok": 15,
+      "groundSpeed": 30,
+      "aeroSpeed": "250/125",
+      "accelerationG": "0.3-12",
+      "maneuverability": 20
+    },
+    {
+      "ok": 80,
+      "groundSpeed": 35,
+      "aeroSpeed": "300/150",
+      "accelerationG": "0.3-48",
+      "maneuverability": 20
+    }
+  ]
+}
