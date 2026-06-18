@@ -1,0 +1,95 @@
+{
+  "description": "Технология защитных силовых полей используется для защиты техники от кинетического и энергетического урона. Многоядерные щиты оплачиваются отдельно как модуль, а генераторы устанавливаются согласно классу техники. Магнитные щиты имеют такую же прочность, но не дают ОБ и стоят в два раза дешевле.",
+  "levels": [
+    {
+      "ok": 0,
+      "shieldHp": 0,
+      "shieldArmor": 0,
+      "class": "Любой"
+    },
+    {
+      "ok": 1,
+      "shieldHp": 10,
+      "shieldArmor": 10,
+      "class": "Любой"
+    },
+    {
+      "ok": 2,
+      "shieldHp": 10,
+      "shieldArmor": 15,
+      "class": "Любой"
+    },
+    {
+      "ok": 3,
+      "shieldHp": 20,
+      "shieldArmor": 10,
+      "class": "Любой"
+    },
+    {
+      "ok": 4,
+      "shieldHp": 20,
+      "shieldArmor": 15,
+      "class": "Любой"
+    },
+    {
+      "ok": 5,
+      "shieldHp": 25,
+      "shieldArmor": 15,
+      "class": "Любой"
+    },
+    {
+      "ok": 7,
+      "shieldHp": 30,
+      "shieldArmor": 15,
+      "class": "Любой"
+    },
+    {
+      "ok": 10,
+      "shieldHp": 30,
+      "shieldArmor": 20,
+      "class": "Любой"
+    },
+    {
+      "ok": 15,
+      "shieldHp": 30,
+      "shieldArmor": 25,
+      "class": "Любой"
+    },
+    {
+      "ok": 20,
+      "shieldHp": 30,
+      "shieldArmor": 30,
+      "class": "Любой"
+    },
+    {
+      "ok": 30,
+      "shieldHp": 40,
+      "shieldArmor": 35,
+      "class": "Любой"
+    },
+    {
+      "ok": 40,
+      "shieldHp": 50,
+      "shieldArmor": 35,
+      "class": "Любой"
+    },
+    {
+      "ok": 60,
+      "shieldHp": 50,
+      "shieldArmor": 40,
+      "class": "Любой"
+    },
+    {
+      "ok": 180,
+      "shieldHp": 100,
+      "shieldArmor": 50,
+      "class": "Сверхтяжелый"
+    },
+    {
+      "ok": 240,
+      "shieldHp": 200,
+      "shieldArmor": 50,
+      "class": "Сверхтяжелый"
+    }
+  ]
+}
