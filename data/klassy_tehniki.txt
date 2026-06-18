@@ -1,0 +1,55 @@
+{
+  "description": "После выбора всех компонентов суммируются Очки Конструкции. Затем применяются модификаторы класса техники и типа ходовой части. Масса каркаса и дополнительной брони участвует в итоговом расчёте стоимости.",
+  "classes": [
+    {
+      "name": "Лёгкий",
+      "massModifier": 0.5,
+      "groundMassModifier": 0.25,
+      "engineModifier": 0.5
+    },
+    {
+      "name": "Средний",
+      "massModifier": 2,
+      "groundMassModifier": 0.5,
+      "engineModifier": 1
+    },
+    {
+      "name": "Тяжелый",
+      "massModifier": 5,
+      "groundMassModifier": 2,
+      "engineModifier": 2
+    },
+    {
+      "name": "Сверхтяжелый",
+      "massModifier": 10,
+      "groundMassModifier": 5,
+      "engineModifier": 5
+    }
+  ],
+  "chassisTypes": [
+    {
+      "name": "Колёсная",
+      "okModifier": 0.3
+    },
+    {
+      "name": "Гусеничная",
+      "okModifier": 0.5
+    },
+    {
+      "name": "Ховер",
+      "okModifier": 0.75
+    },
+    {
+      "name": "Шагоход",
+      "okModifier": 0.75
+    },
+    {
+      "name": "Аэро-космос",
+      "okModifier": 1.5
+    },
+    {
+      "name": "Водный транспорт",
+      "okModifier": 1.5
+    }
+  ]
+}
